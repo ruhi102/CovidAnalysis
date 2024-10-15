@@ -1,4 +1,4 @@
-# Fake News Detection Data Analysis Project
+# Covid Efficacy Analysis
 
 ## Overview
 This repository contains the code and resources for a data analysis project focused on analyzing Covid Efficacy on different countries and continents. The project utilizes visualization and exploratory data analysis to understand the efficiency of vaccines in different continents.
